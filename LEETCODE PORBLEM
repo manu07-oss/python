@@ -38,7 +38,7 @@ class Solution:
                         return ""
             return prefix
 
-        # Example usage:
+        # Example here are the usages which i am unlocking the flow, flight, flower:
         strs1 = ["flower", "flow", "flight"]
         print(longestCommonPrefix(strs1))  # Output: "fl"
 
